@@ -80,8 +80,8 @@ docker-compose up -d
 # you can check with these commands
 docker-compose ps
 docker-compose logs nwaku
-
 ```
+
 ```console
 # let's enter it with this command:
 nano ~/nwaku-compose/docker-compose.yml
