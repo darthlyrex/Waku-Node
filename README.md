@@ -1,4 +1,4 @@
-<h1 align="center">  Learnt from [Rues](https://github.com/ruesandora/waku) </h1>
+<h1 align="center">  Learnt from </h1>[Rues](https://github.com/ruesandora/waku)
 
 
 <h1 align="center"> Waku </h1>
