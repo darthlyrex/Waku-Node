@@ -1,4 +1,4 @@
-                                          Learnt from [Rues](https://github.com/ruesandora/waku)
+  Learnt from [Rues](https://github.com/ruesandora/waku)
 
 <h1 align="center"> Waku </h1>
 
