@@ -1,7 +1,5 @@
-<h1 align="center"> Learnt from  </h1>
+                                          Learnt from [Rues](https://github.com/ruesandora/waku)
 
-> [Rues](https://github.com/ruesandora/waku)
-> 
 <h1 align="center"> Waku </h1>
 
 > How long will it last? No information - Is it rewarding? Not clear, it might be. I'm not expecting a guaranteed outcome, it's just a small hardware.
